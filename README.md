@@ -1,3 +1,5 @@
+# Solidies Project - BackEnd
+
 # Adonis API application
 
 This is the boilerplate for creating an API server in AdonisJs, it comes pre-configured with.
@@ -26,3 +28,10 @@ Run the following command to run startup migrations.
 ```js
 adonis migration:run
 ```
+
+### Warning
+
+Runs the app in the development mode on Backend either.<br />
+Open [KanbanFrontEnd](https://github.com/tiagofsv95/KanbanFrontEnd) to view this repository.
+
+###### Made with love, affection, much fun and a little hurry, by Tiago Felipe. <3
