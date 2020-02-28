@@ -32,6 +32,6 @@ adonis migration:run
 ### Warning
 
 Runs the app in the development mode on Backend either.<br />
-Open [KanbanFrontEnd](https://github.com/tiagofsv95/KanbanFrontEnd) to view this repository.
+Open [Solidies Project - FrontEnd](https://github.com/tiagofsv95/hourcontroll) to view this repository.
 
 ###### Made with love, affection, much fun and a little hurry, by Tiago Felipe. <3
